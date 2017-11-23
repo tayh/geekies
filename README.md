@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/tayh/geekies/master/logo1.png)
+<p align="center">![Logo](https://raw.githubusercontent.com/tayh/geekies/master/logo1.png)</p>
 
 ## Sobre o Projeto 
 
